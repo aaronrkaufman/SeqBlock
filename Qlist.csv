@@ -1,0 +1,11 @@
+Qnum	Question	Answer1	Answer2	Answer3	Answer4	Answer5
+1	Political Party	Strong Democrat	Democrat	Moderate/Independent	Republican	Strong Republican
+2	Race	White	Black	Hispanic	Asian	Other
+3	Age	less than 26	26-35	36-45	46-55	56 or older
+4	Highest Degree Earned	None	High School/GED	Associate's Degree	Bachelor's Degree	Master's/Professional Degree
+5	Gender	Male	Female			
+6	Are you registered to vote?	Yes	No			
+7	Have you voted in either of the two previous Presidential elections?	Yes	No			
+8	Marital Status	Married	Previously Married	Never Married		
+9	How interested are you in politics?	Very interested	Somewhat interested	Somewhat disinterested	Very disinterested	
+10	Income per year	Less than 10000	10000-24999	25000-49999	50000-74999	75000 and above
